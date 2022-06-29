@@ -3,8 +3,8 @@
 * Resources
 
 * [Replit IDE](https://replit.com/~)
-* [Google Classroom](google.com)
-* [Renweb](renweb.com)
+* [Google Classroom](https://google.com)
+* [Renweb](https://renweb.com)
 
 ***
 
@@ -12,7 +12,7 @@
 
 ***
 
-* [**Curriculum**]({{ "/curriculum" | relative_url }})
+* [**Curriculum**]({{ "/curriculum/index" | relative_url }})
 * [Syllabus]({{"/syllabus" | relative_url }})
 
 ***
