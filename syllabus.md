@@ -1,160 +1,87 @@
 # Syllabus
 
-###### [Download the full syllabus as a PDF with mappings to the AP CSP Framework's Learning Objectives](https://www.dropbox.com/s/dl/3osf5dq3et1b13i/Syllabus%202019-20.pdf?dl=0)
+###### [Download the full syllabus as a PDF]({{"/assets/pdfs/syllabus.pdf" | relative_url }})
+
+## Mission Statement
+SouthLake Christian Academy exists for the sake of God's glory and mission; proclaiming the gospel and discipling the whole person in all aspects of God's reality.
 
 ## Description
 
-CS50 is Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming for students with a diversity of technological background and experience. CS50 for AP Computer Science Principles is an adaptation of CS50 specifically tailored to align with the AP Computer Science Principles curriculum framework. The course’s assignments, materials, and resources are all identical to the version of the course taught at the college-level, albeit adapted to suit a secondary school audience.
+The AP Computer Science Principles (CSP) curriculum is a full year, rigorous, first year college entry-level course that introduces high school students to the foundations of modern computing.
 
-Among this course’s objectives is to supply students with a comprehensive introduction to the fundamentals of the discipline of computer science. We will do so using programming in several different languages as a vehicle to introduce these fundamentals, including such topics as algorithms, abstraction, data, global impact, and internet technologies. Though the course is programming-heavy, it should be stressed that this is not a “programming course”; rather, this course should be considered one of problem-solving, creativity, and exploration. By year’s end, students will have a richer understanding of the key principles of the discipline of computer science. Students will be able to speak intelligently about how computers work and how they enable us to become better problem-solvers, and will hopefully be able to communicate that knowledge to others.
+Among this course’s objectives is to supply students with a comprehensive introduction to the fundamentals of the discipline of computer science. We will do so using programming in Python as a vehicle to introduce these fundamentals, including such topics as algorithms, abstraction, data, global impact, and internet technologies. Though the course is programming-heavy, it should be stressed that this is **not** a "programming course"; rather, this course should be considered one of problem-solving, creativity, and exploration. By year's end, students will have a richer understanding of the key principles of the discipline of computer science. Students will be able to speak intelligently about how computers work and how they enable us to become better problem-solvers, and will hopefully be able to communicate that knowledge to others.
 
-Whether students elect to take no other computer science courses in their lifetime or consider this class the first step in a longer course of study, it is our sincere hope that they feel more comfortable with—and indeed sometimes skeptical of—the technologies that surround us each day.
-
-## Expectations
-
-Students are expected to submit all problems! If students would like to receive AP credit they will need to take the [AP CSP Exam](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam) and complete the [Create and Explore Tasks](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf).
-
-## Prerequisites
-
-The only background required for CS50 for AP Computer Science Principles is completion of Algebra I or its equivalent.
-
-## Books
-
-No books are required for this course. However, students may want to supplement their preparation for or review of some lectures with self-assigned readings relevant to those lectures' content from either of the books below. The first is intended for those inexperienced in (or less comfortable with the idea of) programming. The second is intended for those experienced in (or more comfortable with the idea of) programming.
-
-### For Those Less Comfortable
-
-* _C Programming Absolute Beginner's Guide_, Third Edition  
-Greg Perry, Dean Miller  
-Pearson Education, 2014  
-ISBN 0-789-75198-4
-
-### For Those More Comfortable
-
-* _Programming in C_, Fourth Edition  
-Stephen G. Kochan  
-Pearson Education, 2015  
-ISBN 0-321-77641-0
-<br>
-
-The book below is recommended for those interested in understanding how their own computers work for personal edification.
-
-* _How Computers Work_, Ninth Edition  
-Ron White  
-Que Publishing, 2008  
-ISBN 0-7897-3613-6
-<br>
-
-This last book below is recommended for aspiring hackers, those interested in programming techniques and low-level optimization of code for applications beyond the scope of this course.
-
-* _Hacker's Delight_, Second Edition  
-Henry S. Warren Jr.  
-Pearson Education, 2013  
-ISBN 0-321-84268-5  
+Whether students elect to take no other computer science courses in their lifetime or consider this class the first step in a longer course of study, it is our sincere hope that they feel more comfortable with — and indeed sometimes skeptical of — the technologies that surround us each day.
 
 ## Overview
 
-Consistent with the AP Computer Science Principles curriculum framework, the course’s material is organized around seven so-called “big ideas” as well as six computational thinking practices. The seven big ideas are:
-1.	Creativity
-2.	Abstraction
-3.	Data and Information
-4.	Algorithms
-5.	Programming
-6.	The Internet
-7.	Global Impact
-<br>
+The course is centered around five **"Big Ideas"**.
 
-And the six computational thinking practices are:
+* Creative Development [CRD]
+* Data [DAT]
+* Algorithms and Programming [AAP]
+* Computing Systems and Networks [CSN]
+* Impact of Computing [IOC]
 
-* P1. Connecting Computing
-* P2. Creating Computational Artifacts
-* P3. Abstracting
-* P4. Analyzing Problems and Artifacts
-* P5. Communicating (both orally and in writing)
-* P6. Collaborating
+Further, six **"Computational Thinking Practices"** spiral throughout the "Big Ideas".
 
-## Curriculum
+* Computational Solution Design [CTP1]
+* Algorithms and Program Development [CTP2]
+* Abstraction in Program Development [CTP3]
+* Code Analysis [CTP4]
+* Computing Innovations [CTP5]
+* Responsible Computing [CTP6]
 
-The core curriculum is identical to that of the college. The AP modules include topics that are not covered in CS50 here on campus, but are essential to the AP Computer Science Principles Course. The AP modules are less programming centric and can be used wherever you see fit.
+## Technology
 
-## CS50 Core Curriculum
+SouthLake will issue a Macbook device to each student, which we will use daily. Much of the work we do will be in a web environment; it is recommended that students have a current internet browser loaded on their devices (recommended: Mozilla Firefox and/or Google Chrome – both are available for download free of charge.)
 
-### Chapter 0
+## AP Course Assessments
 
-Binary. ASCII. Algorithms. Pseudocode. Scratch.  
+AP courses are __college-level__ courses. Therefore, in an effort to best prepare our students and to reflect the college credit they can potentially earn, policies for these courses will be more in line with collegiate policies and in some instances may differ from honors and college-prep classes at SLCA. Students and parents should carefully review the following policies to ensure a full understanding of the expectations of AP teachers.
 
-### Chapter 1
+Tests may include, but are not limited to, in-class tests, take home tests, major papers or projects, etc.
 
-Syntax. Variables. Data Types. Operators. Boolean Expressions and Conditionals. Loops.
+Quizzes may include, but are not limited to, in-class quizzes, guided reading assignments, vocabulary, etc.
 
-### Chapter 2
+### Numerical Scoring Guide
 
-Compiling. Debugging. Arrays and Strings. Command-Line Interaction. Exit Codes. Searching. Computational Complexity. Computational Models.
+Students will accrue points as follows:
 
-### Chapter 3
+* Independent Work assignments will be worth 1-10 points each.
+* Grades will be worth 11-25 points each.
+* Test Grades will be worth 26-100 points each.
 
-Functions. Tools for Debugging. More on Strings. Memory. Pointers. Structs.
+### Final Grade
 
-### Chapter 4
+* 80% Semester Grade
+* 20% Semester Exam
 
-Valgrind. More on Structs. Linked Lists. Hash Tables. Trees. Tries.
+## Project Work
 
-### Chapter 5
+We will be using various online resources as well as "unplugged" activities.  There will be many online projects assigned that will involve data analysis, manipulating digital information and computer programming projects. These will be assessed as either test or quiz grades depending on the level of effort required.
 
-Internet Basics. HTTP. HTML. Forms. CSS. JavaScript.
+During the Spring semester, **students are required to take the AP exam** for each AP class in which they are enrolled.  This exam will be administered at SLCA on __TBD__. Students are registered for the exams by SLCA, but are required to pay for each exam taken. The cost is $100 per exam. Students for whom this presents a financial hardship should contact Ms. Julie Swanson. Students who do not take AP exams will have their AP course reclassified as an honors course on their transcript.  AP exams are not factored into the second semester grade because The College Board grades them and scores are not available until July.
 
-### Chapter 6
+Additionally, **AP Computer Science Principles requires the submission of a Create Performance Task (Create PT) along with responses to prompts regarding the task.**  The Create PT is due on __TBD__.  Students will be provided with detailed requirements and instructions for creating and submitting the performance task and related free response questions.  The Create PT accounts for 40% of the final AP score.  The College Board requires that students be given 12 hours of in-class time to complete the task. Students may work on the tasks at home in addition to the time allotted in class. The 2 hour AP exam on __TBD__ will account for 60% of the students’ final AP grade.
 
-Python. Conditionals. Booleans. Loops. Data Types. Functions.
+## Attendance Policy
 
-### Chapter 7
+* Attendance in class is absolutely essential to the successful completion of the course and to the attainment of a qualified grade on the nation-wide Advance Placement examination held in May. The rigors of this class demand you miss a minimal number of classes.
+* If a student is absent on the day a test is administered in class, s/he will have two school days after returning to make up the test. It is the student’s responsibility to make testing arrangements within that timeframe. No test can be made up after the two school days have lapsed.
+* If a student is absent on the day an in-class quiz is administered, they will receive a "0" for that quiz. At the end of the semester, the instructor will drop the two lowest in-class quiz grades for each student, meaning a student may miss up to two quizzes in a semester without being penalized for their absence. __NOTE:__ This policy applies only to in-class quizzed and does not apply to assignments that receive credit as a quiz grade. Assignments that were not turned in on time and received a "0" are not available to drop. Assignments missed due to SLCA business may be made up either prior to or within two school days.
+* Any assignment (other than an in-class test or quiz) regardless of whether it is counted as a quiz or test grade, must be turned in on the assigned due even if the student is not in class. It is the student’s responsibility to either turn the work in early or see that it is submitted to the teacher (not the front office) on the due date. Assignments not turned in on the assigned due date receive no credit, and there is no opportunity to make up these grades.
 
-Flask. MVC. Autocomplete. Events. Ajax. JSON.
+## Classroom Expectations
 
-### Chapter 8
-
-Cookies. Sessions. Databases. SQL. Race Conditions.
-
-## AP Modules
-
-### Understanding Technology
-
-Hardware. The Internet. Multimedia. Security.
-
-### Data Science
-
-Collecting Data. Analyzing Data.
-
-### Impact of Computing
-
-The Development Process. Scaling. Models. Simulations. The Digital Divide. Ethics and Legalities of Computing.
-
-## Recommended Order
-
-We present below a recommended ordering of the curriculum and a suggested timetable. These recommendations are based on a 36-week long school year, where students are available for 180 classroom minutes. However, student experience can vary widely; these recommendations are designed to capture an "average" class.
-
-1. Understanding Technology (3 weeks)
-2. Chapter 0 (2 weeks)
-3. Performance Task 1: Explore (2 weeks)
-4. Chapter 1 (4 weeks)
-5. Chapter 2 (3 weeks)
-6. Chapter 3 (4 weeks)
-7. Chapter 4 (2 weeks)
-8. Data Science (1 week)
-9. Chapter 5 (3 weeks)
-10. Chapter 6 (3 weeks)
-11. Chapter 7 (3 weeks)
-12. Chapter 8 (2 weeks)
-13. Performance Task 2: Create (3 weeks)
-12. Impact of Computing (1 week)
+* Assignments are to be completed in a timely manner and in accordance with instructions.
+* Participation in class is required.
+* The student is expected to take full responsibility for communicating with the teacher concerning absences and excuses and completing make-up work according to SouthLake Christian policy.
+* The attitudes of students are to reflect Christ in honesty, humility, and honor.
 
 ## Academic Honesty
 
-This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
-
-The essence of all work that students submit to this course must be their own. Collaboration on problems is not permitted except to the extent that students may ask classmates and others for help so long as that help does not reduce to another doing thier work for them. Generally speaking, when asking for help, students may show their code to others, but they may not view their peers', so long as they respect this policy's other constraints. Collaboration on the AP Computer Science Principle's through-course assessments, namely the create and explore task, is permitted to the extent prescribed by their description provided by the College Board.
-
-Below are rules of thumb that (inexhaustively) characterize acts that the course considers reasonable and not reasonable. Acts considered not reasonable by the course are handled harshly.
+Students will abide by the honor code statement __**"I shall neither give nor receive help"**__ for all assignments unless specifically exempted by the instructor. Violations of the honor code pledge will result in a zero for the assignment; actions will follow the school’s policy on cheating.  The following table is an **inexhaustive** list of reasonable and non-reasonable behaviors:
 
 ### Reasonable
 
@@ -187,4 +114,6 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 * Submitting work to this course that you intend to use outside of the course (e.g., for a job) without prior approval.
 * Using resources during a test or quiz beyond those explicitly allowed in the test or quiz's instructions.
 * Viewing another's solution to a problem and basing your own solution on it.
+
+If there is any question that your behavior may be non-reasonable, please come to me for guidance first!
 
