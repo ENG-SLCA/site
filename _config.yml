@@ -30,6 +30,11 @@ url: https://jbas.github.io  # the base hostname & protocol for your site, e.g. 
 # twitter_username: jekyllrb
 github_username:  JBas
 
+# algolia:
+#    application_id: YOUR_APPLICATION_ID
+#    index_name: YOUR_INDEX_NAME
+#    search_only_api_key: YOUR_SEARCH_ONLY_API_KEY
+
 # Build settings
 remote_theme: jbas/jekyll-theme-cs50
 # plugins:
