@@ -1,4 +1,4 @@
-# Schedule
+# Assignment Schedule
 _**This is subject to revision!**_
 
 | **Week** | **Assignment**                                                     | **Due Date** |
