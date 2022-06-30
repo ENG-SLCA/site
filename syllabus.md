@@ -38,7 +38,7 @@ SouthLake will issue a Macbook device to each student, which we will use daily. 
 
 ## AP Course Assessments
 
-AP courses are __college-level__ courses. Therefore, in an effort to best prepare our students and to reflect the college credit they can potentially earn, policies for these courses will be more in line with collegiate policies and in some instances may differ from honors and college-prep classes at SLCA. Students and parents should carefully review the following policies to ensure a full understanding of the expectations of AP teachers.
+AP courses are _college-level_ courses. Therefore, in an effort to best prepare our students and to reflect the college credit they can potentially earn, policies for these courses will be more in line with collegiate policies and in some instances may differ from honors and college-prep classes at SLCA. Students and parents should carefully review the following policies to ensure a full understanding of the expectations of AP teachers.
 
 Tests may include, but are not limited to, in-class tests, take home tests, major papers or projects, etc.
 
@@ -61,15 +61,15 @@ Students will accrue points as follows:
 
 We will be using various online resources as well as "unplugged" activities.  There will be many online projects assigned that will involve data analysis, manipulating digital information and computer programming projects. These will be assessed as either test or quiz grades depending on the level of effort required.
 
-During the Spring semester, **students are required to take the AP exam** for each AP class in which they are enrolled.  This exam will be administered at SLCA on __TBD__. Students are registered for the exams by SLCA, but are required to pay for each exam taken. The cost is $100 per exam. Students for whom this presents a financial hardship should contact Ms. Julie Swanson. Students who do not take AP exams will have their AP course reclassified as an honors course on their transcript.  AP exams are not factored into the second semester grade because The College Board grades them and scores are not available until July.
+During the Spring semester, **students are required to take the AP exam** for each AP class in which they are enrolled.  This exam will be administered at SLCA on _TBD_. Students are registered for the exams by SLCA, but are required to pay for each exam taken. The cost is $100 per exam. Students for whom this presents a financial hardship should contact Ms. Julie Swanson. Students who do not take AP exams will have their AP course reclassified as an honors course on their transcript.  AP exams are not factored into the second semester grade because The College Board grades them and scores are not available until July.
 
-Additionally, **AP Computer Science Principles requires the submission of a Create Performance Task (Create PT) along with responses to prompts regarding the task.**  The Create PT is due on __TBD__.  Students will be provided with detailed requirements and instructions for creating and submitting the performance task and related free response questions.  The Create PT accounts for 40% of the final AP score.  The College Board requires that students be given 12 hours of in-class time to complete the task. Students may work on the tasks at home in addition to the time allotted in class. The 2 hour AP exam on __TBD__ will account for 60% of the students’ final AP grade.
+Additionally, **AP Computer Science Principles requires the submission of a Create Performance Task (Create PT) along with responses to prompts regarding the task.**  The Create PT is due on _TBD_.  Students will be provided with detailed requirements and instructions for creating and submitting the performance task and related free response questions.  The Create PT accounts for 40% of the final AP score.  The College Board requires that students be given 12 hours of in-class time to complete the task. Students may work on the tasks at home in addition to the time allotted in class. The 2 hour AP exam on _TBD_ will account for 60% of the students’ final AP grade.
 
 ## Attendance Policy
 
 * Attendance in class is absolutely essential to the successful completion of the course and to the attainment of a qualified grade on the nation-wide Advance Placement examination held in May. The rigors of this class demand you miss a minimal number of classes.
 * If a student is absent on the day a test is administered in class, s/he will have two school days after returning to make up the test. It is the student’s responsibility to make testing arrangements within that timeframe. No test can be made up after the two school days have lapsed.
-* If a student is absent on the day an in-class quiz is administered, they will receive a "0" for that quiz. At the end of the semester, the instructor will drop the two lowest in-class quiz grades for each student, meaning a student may miss up to two quizzes in a semester without being penalized for their absence. __NOTE:__ This policy applies only to in-class quizzed and does not apply to assignments that receive credit as a quiz grade. Assignments that were not turned in on time and received a "0" are not available to drop. Assignments missed due to SLCA business may be made up either prior to or within two school days.
+* If a student is absent on the day an in-class quiz is administered, they will receive a "0" for that quiz. At the end of the semester, the instructor will drop the two lowest in-class quiz grades for each student, meaning a student may miss up to two quizzes in a semester without being penalized for their absence. _NOTE:_ This policy applies only to in-class quizzed and does not apply to assignments that receive credit as a quiz grade. Assignments that were not turned in on time and received a "0" are not available to drop. Assignments missed due to SLCA business may be made up either prior to or within two school days.
 * Any assignment (other than an in-class test or quiz) regardless of whether it is counted as a quiz or test grade, must be turned in on the assigned due even if the student is not in class. It is the student’s responsibility to either turn the work in early or see that it is submitted to the teacher (not the front office) on the due date. Assignments not turned in on the assigned due date receive no credit, and there is no opportunity to make up these grades.
 
 ## Classroom Expectations
@@ -81,7 +81,7 @@ Additionally, **AP Computer Science Principles requires the submission of a Crea
 
 ## Academic Honesty
 
-Students will abide by the honor code statement __**"I shall neither give nor receive help"**__ for all assignments unless specifically exempted by the instructor. Violations of the honor code pledge will result in a zero for the assignment; actions will follow the school’s policy on cheating.  The following table is an **inexhaustive** list of reasonable and non-reasonable behaviors:
+Students will abide by the honor code statement ***"I shall neither give nor receive help"*** for all assignments unless specifically exempted by the instructor. Violations of the honor code pledge will result in a zero for the assignment; actions will follow the school’s policy on cheating.  The following table is an **inexhaustive** list of reasonable and non-reasonable behaviors:
 
 ### Reasonable
 
