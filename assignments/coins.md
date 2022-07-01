@@ -1,6 +1,7 @@
 # Problem Set 1: Coins
 
-![Coins](/assets/images/coins.jpg "25 cents, 10 cents, 5 cents, 1 cent")
+<!-- ![Coins](/assets/images/coins.jpg "25 cents, 10 cents, 5 cents, 1 cent") -->
+<img src="{{ '/assets/images/coins.jpg' | relative_url }}" alt="25 cents, 10 cents, 5 cents, 1 cent" title="25 cents, 10 cents, 5 cents, 1 cent">
 
 
 ## Background

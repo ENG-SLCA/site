@@ -7,3 +7,4 @@ _**This is subject to revision!**_
 |          | [Coins]({{"/assignments/coins" | relative_url }})                  |              |
 |          | [Scrabble]({{"/assignments/scrabble" | relative_url }})            |              |
 |          | [Plurality]({{"/assignments/plurality" | relative_url }})          |              |
+|          | [Caesar]({{"/assignments/caesar" | relative_url }})                |              |
