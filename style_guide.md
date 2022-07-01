@@ -14,4 +14,22 @@ Comments make code more readable, not only for others (e.g., your code buddies, 
 * Why did I implement this block in this way?
 
 ## Indentation
-In Python, whitespace (e.g., spaces, newlines) are part of your code! It's important to be consistent. Choose an indetation level of either 4 or 2, and be consistent in indenting that many spaces! Luckily, Replit let's you set an indetation level and use the tab key to indent.
+In Python, whitespace (e.g., spaces, newlines) is part of your code! It's important to be consistent. Choose an indentation level of either 4 or 2, and be consistent in indenting that many spaces! Luckily, Replit lets you set an indentation level and use the tab key to indent.
+
+## Pseudocode & Diagrams
+
+I highly recommend to write pseudocode *prior to implementation*! Likewise, I highly recommend diagramming the flow of your program. In fact, I require diagrams and pseudocode for some of the more complex assignments.
+
+For diagramming in Replit, you can either:
+1. create a `flowchart.draw` file to draw directly in your browser, or
+2. draw your diagram on a piece of paper and upload a picture to your repl.
+
+Here is a pseudocode reference sheet, taken directly from the College Board. *Note:* for the exam, you will have access to this reference sheet, so get comfortable with it!
+
+<div>
+    <object data="{{ '/assets/pdfs/exam_reference_sheet.pdf' | relative_url }}" type="application/pdf" width="100%" height="750px">
+        <embed src="{{ '/assets/pdfs/exam_reference_sheet.pdf' | relative_url }}" type="application/pdf">
+        <p>This browser does not support PDFs. <a href="{{ '/assets/pdfs/exam_reference_sheet.pdf' | relative_url }}">Download reference sheet!</a></p>
+    </object>
+</div>
+
