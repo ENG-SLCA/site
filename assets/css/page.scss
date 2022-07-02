@@ -1,11 +1,13 @@
 ---
 ---
 
-//$link-color: red;
-//$link-hover-color: $link-color;
-//
-//@import "{{ site.theme }}";
-//
-//aside { background-color: $link-color; color: rgba(255, 255, 255, 0.5); font-size: 1.125rem; }
+$link-color: #002d04;
+$link-hover-color: $link-color;
 
+@import "{{ site.theme }}";
 
+aside {
+    background-color: $link-color;
+    color: rgba($body-bg, 0.5);
+    font-size: 1.125rem;
+}
