@@ -7,7 +7,8 @@
 
 ***
 
-* [Schedule]({{"/schedule" | relative_url }})
+* [Curriculum]({{"/curriculum" | relative_url }})
+* [Schedule]({{"/assignments" | relative_url }})
 
 ***
 
