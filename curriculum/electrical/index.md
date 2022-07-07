@@ -1,4 +1,4 @@
-# Unit 1: Electrical Engineering
+# Unit 2: Electrical Engineering
 
 <ul>
     
@@ -80,6 +80,20 @@
                 <ul>
                     <li><a href="https://www.teachengineering.org/curricularunits/view/cub_pveff_curricularunit">Photovoltaic Efficiency</a></li>
                 </ul>
+            </li>
+            
+        </ul>
+    </li>
+    
+    <li data-marker="+"><a href="#">Ethical Engineering</a>
+        <ul>
+            
+            <li data-marker="-"><a href="#">Topics</a>
+                <ul>
+                    <li>How and where circuit boards are made</li>
+                    <li>How and where solar cells are made</li>
+                    <li>How the choices business make affect individuals and society</li>
+                </ul>               
             </li>
             
         </ul>
