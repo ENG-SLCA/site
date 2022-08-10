@@ -88,5 +88,3 @@ The field of engineering is all encompassing in its subject matter and real-worl
         </ul>
     </li>
 </ul>
-
-Creative Engineering Design Curriculum [1](https://www.teachengineering.org/curricularunits/view/cub_creative_curricularunit)
